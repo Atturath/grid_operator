@@ -14,6 +14,7 @@ For medium term, you need to solve these challenge:
 - **generation and load connection request**: check enough infrastructures, including protection schemes for inverter based technology
 - You can choose the expensive schemes like full N-1 security, N security with demand response, etc.
 - Are there enough base load?
+- All the connection request comes with probability of cancelled connection.
 
 The criteria of the win is security of supply + economic value, plus minimal nodal pricing difference.
 
